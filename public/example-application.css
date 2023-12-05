@@ -1,0 +1,32 @@
+body {
+    padding: 50px;
+    background: linear-gradient(to bottom right, #009ea7, #009ed7) fixed;
+}
+
+h1 {
+    color: yellow;
+    text-shadow: pink 2px 1px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+}
+
+form {
+    height: 50px;
+}
+
+label {
+    color: yellow;
+}
+
+input {
+    border-radius: 10px;
+    height: 25px;
+}
+
+button {
+    height: 30px;
+    border-radius: 10px;
+}
